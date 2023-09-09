@@ -22,5 +22,5 @@ The system should include basic functionalities such as adding, updating, and re
 # Prerequisites
 
 - Import required libraries and extensions
-To help you set up quickly, you can install the Coding Pack for Java, which includes VS Code, the Java Development Kit (JDK), and essential Java extensions. You can also add Java suppport by installing the Extension Pack for Java.
+- To help you set up quickly, you can install the Coding Pack for Java, which includes VS Code, the Java Development Kit (JDK), and essential Java extensions. You can also add Java suppport by installing the Extension Pack for Java.
 https://code.visualstudio.com/docs/java/java-tutorial

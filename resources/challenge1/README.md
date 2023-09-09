@@ -16,10 +16,10 @@ Remember:
 
 Python - Weather Forecasting Tool
 
-Create a command-line tool that accepts a city's name and returns the current weather forecast.
-Leverage OpenWeatherMap API to fetch weather data by city and parse it using Python.
-Retrieve the API key from your Coach and the API service endpoint from https://openweathermap.org/api
-Your solution should demonstrate how GitHub Copilot can help you with API usage, data parsing, and error handling.
+Create a command-line tool that accepts a city's name and returns the current weather forecast. Your solution should demonstrate how GitHub Copilot can help you with API usage, data parsing, and error handling.
+
+- Leverage OpenWeatherMap API to fetch weather data by city and parse it using Python.
+- Retrieve the API key from your Coach and the API service endpoint from https://openweathermap.org/api
 
 # Prerequisites
 
